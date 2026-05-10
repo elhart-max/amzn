@@ -1,1 +1,74 @@
-hello
+[
+  {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "description": "An open-world action RPG where you explore the magical world of Teyvat, master elemental combat, and uncover hidden secrets.",
+    "imageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2youx.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6hx5.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6hx4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6hx6.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6hx7.jpg"
+    ],
+    "amazonUrl": "https://www.amazon.com/gp/product/B09S3TZ6Y5",
+    "category": "Action RPG",
+    "rating": "4.5"
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "description": "A multiplayer party game where you and your friends work together on a spaceship, but one among you is an impostor out to kill.",
+    "imageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhsh.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6fqy.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6fqz.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6fr0.jpg"
+    ],
+    "amazonUrl": "https://www.amazon.com/gp/product/B08CF9ZGGF",
+    "category": "Party",
+    "rating": "4.3"
+  },
+  {
+    "id": "asphalt-9",
+    "title": "Asphalt 9: Legends",
+    "description": "Feel the thrill of the arcade racing experience with the hottest cars, stunning graphics, and intense nitro action.",
+    "imageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d3i.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6jvk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6jvl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6jvm.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6jvn.jpg"
+    ],
+    "amazonUrl": "https://www.amazon.com/gp/product/B07D3KYYKJ",
+    "category": "Racing",
+    "rating": "4.6"
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "description": "Explore infinite worlds, build everything from the simplest of homes to the grandest of castles in this creative sandbox game.",
+    "imageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49yf.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8qqp.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8qqq.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8qqr.jpg"
+    ],
+    "amazonUrl": "https://www.amazon.com/gp/product/B00992CF6W",
+    "category": "Sandbox",
+    "rating": "4.7"
+  },
+  {
+    "id": "pubg-mobile",
+    "title": "PUBG Mobile",
+    "description": "Battle royale shooter where 100 players parachute onto an island and fight to be the last one standing.",
+    "imageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d5s.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6ibc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6ibb.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6iba.jpg"
+    ],
+    "amazonUrl": "https://www.amazon.com/gp/product/B07D3KYYKJ",
+    "category": "Battle Royale",
+    "rating": "4.4"
+  }
+]
