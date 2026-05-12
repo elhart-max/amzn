@@ -13,7 +13,7 @@
       "id": "cozy_living_room_1",
       "title": "Cozy Living Room",
       "description": "Transform your Minecraft home with this cozy living room set. Sofa, coffee table, bookshelves, TV unit, and carpet included.",
-      "imageUrl": "https://example.com/images/cozy_living_room.png",
+      "imageUrl": "https://raw.githubusercontent.com/elhart-max/amzn/refs/heads/main/cov.png",
       "downloadUrl": "https://example.com/downloads/cozy_living_room.mcaddon",
       "category": "Living Room",
       "isNew": true
