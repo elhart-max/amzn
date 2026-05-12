@@ -1,0 +1,58 @@
+{
+  "addons": [
+    {
+      "id": "modern_kitchen_1",
+      "title": "Modern Kitchen Set",
+      "description": "A complete modern kitchen furniture pack for your Minecraft world. Includes counters, cabinets, fridge, stove, sink, and dining table with chairs.",
+      "imageUrl": "https://example.com/images/modern_kitchen.png",
+      "downloadUrl": "https://example.com/downloads/modern_kitchen.mcaddon",
+      "category": "Kitchen",
+      "isNew": true
+    },
+    {
+      "id": "cozy_living_room_1",
+      "title": "Cozy Living Room",
+      "description": "Transform your Minecraft home with this cozy living room set. Sofa, coffee table, bookshelves, TV unit, and carpet included.",
+      "imageUrl": "https://example.com/images/cozy_living_room.png",
+      "downloadUrl": "https://example.com/downloads/cozy_living_room.mcaddon",
+      "category": "Living Room",
+      "isNew": true
+    },
+    {
+      "id": "bedroom_deluxe_1",
+      "title": "Bedroom Deluxe",
+      "description": "Premium bedroom furniture collection. Double bed with canopy, wardrobe, nightstands, desk, and decorative items.",
+      "imageUrl": "https://example.com/images/bedroom_deluxe.png",
+      "downloadUrl": "https://example.com/downloads/bedroom_deluxe.mcaddon",
+      "category": "Bedroom",
+      "isNew": false
+    },
+    {
+      "id": "garden_furniture_1",
+      "title": "Garden & Outdoor",
+      "description": "Beautiful outdoor furniture set including garden bench, picnic table, umbrella, flower pots, and patio set.",
+      "imageUrl": "https://example.com/images/garden_furniture.png",
+      "downloadUrl": "https://example.com/downloads/garden_furniture.mcaddon",
+      "category": "Outdoor",
+      "isNew": true
+    },
+    {
+      "id": "bathroom_essentials_1",
+      "title": "Bathroom Essentials",
+      "description": "Complete bathroom furniture pack with bathtub, shower, toilet, sink, mirror cabinet, and towel rack.",
+      "imageUrl": "https://example.com/images/bathroom_essentials.png",
+      "downloadUrl": "https://example.com/downloads/bathroom_essentials.mcaddon",
+      "category": "Bathroom",
+      "isNew": false
+    },
+    {
+      "id": "office_workspace_1",
+      "title": "Office Workspace",
+      "description": "Modern office furniture set. Desk with computer, office chair, filing cabinet, bookshelf, and desk lamp.",
+      "imageUrl": "https://example.com/images/office_workspace.png",
+      "downloadUrl": "https://example.com/downloads/office_workspace.mcaddon",
+      "category": "Office",
+      "isNew": false
+    }
+  ]
+}
